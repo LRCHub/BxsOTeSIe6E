@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "マニュア / 重音テト (MANURE / Kasane Teto)",
+  "base_artist": "読谷あかね",
+  "createdAt": "2026-01-13T13:42:39.994030Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "マニュア",
+      "artist": "読谷あかね",
+      "has_synced": false,
+      "path": "select/pl_01_マニュア_読谷あかね.txt"
+    }
+  ]
+}
